@@ -26,4 +26,18 @@ Ran an SQL and Power BI analysis of hospital price transparency data published b
 - **Humana** offers the highest negotiated rates for complex procedures (transplants, CAR T-Cell therapy)
 - **Freedom Health** and **Wellcare** have the lowest average negotiated rates overall
 - **Chimeric Antigen Receptor (CAR) T-Cell therapy** shows the largest price variation across payers (~$798K spread)
-- All contracts in this dataset are classified as **facility** billing class (all procedures were performed on a hospital setting) 
+- All contracts in this dataset are classified as **facility** billing class (all procedures were performed on a hospital setting)
+
+### Dashboard Preview
+
+**Average Negotiated Rate by Payer**
+![Avg Rate by Payer](01_avg_rate_by_payer.png)
+
+**Price Variation by Procedure**
+![Price Variation](02_price_variation.png)
+
+**Top Paying Payer by Procedure**
+![Top Payer by Procedure](03_top_payer_by_procedure.png)
+
+**Average Rate by Payer and Billing Class**
+![Rate by Billing Class](04_rate_by_billing_class.png)
